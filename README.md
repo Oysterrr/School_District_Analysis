@@ -5,10 +5,10 @@ The purpose of this analysis is to organize and replace some missing/inaccurate 
 
 ##Results
 This is the original analysis result from this module:
-(https://github.com/Oysterrr/School_District_Analysis/blob/main/Resources/school_original.PNG)
+!(https://github.com/Oysterrr/School_District_Analysis/blob/main/Resources/school_original.PNG)
 
 This is the updated analysis result after removing the math and reading scores for 9th graders at Thomas High School:
-(https://github.com/Oysterrr/School_District_Analysis/blob/main/Resources/school_updated.PNG)
+!(https://github.com/Oysterrr/School_District_Analysis/blob/main/Resources/school_updated.PNG)
 
 After removing the math and reading scores for 9th graders at Thomas High School, most of the data remains the same. The only difference is change of average grades and percentage of pass students for Thomas High School.
 
